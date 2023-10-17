@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m computer science graduate [2023]
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me getayawkalbk@gmail.com 
 
 <!---
 GetayawkalBefkadu/GetayawkalBefkadu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
