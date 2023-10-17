@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GetayawkalBefkadu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning comuter science
+- 🌱 I’m computer science graduate [2023]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
