@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GetayawkalBefkadu
 - 👀 I’m interested in coding
 - 🌱 I’m computer science graduate [2023]
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 1 + 1 = 10
 - 📫 How to reach me getayawkalbk@gmail.com 
 
 <!---
